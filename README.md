@@ -73,10 +73,13 @@
 
 ---
 
-## 💭 Quote of the Day
+## 💭 Quote of the Day  
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+> 🌱 **"Phải siêng năng, vì không điều gì là dễ dàng."** 🌱
+
 </div>
+
 
 ---
 
