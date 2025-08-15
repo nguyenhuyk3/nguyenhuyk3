@@ -6,18 +6,6 @@
 
 ---
 
-## 🚀 About Me
-
-```typescript
-const huy = {
-  pronouns: "he/him",
-  location: "Vietnam 🇻🇳",
-  currentFocus: ["AI Development", "DevOps Practices", "System Architecture"],
-  askMeAbout: ["Gin Framework", "Flutter", "Spring Boot", "Microservices"],
-  funFact: "I turn coffee ☕ into code 💻"
-};
-```
-
 ### 🎯 Current Goals
 - 🌱 Mastering **AI/ML** integration in backend systems
 - 🔧 Diving deep into **DevOps** and cloud infrastructure
