@@ -6,14 +6,6 @@
 
 ---
 
-### 🎯 Current Goals
-- 🌱 Mastering **AI/ML** integration in backend systems
-- 🔧 Diving deep into **DevOps** and cloud infrastructure
-- 📱 Building scalable **mobile applications**
-- 🚀 Contributing to **open-source** projects
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
